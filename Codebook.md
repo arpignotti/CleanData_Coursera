@@ -47,7 +47,7 @@ tempSub = This is temporary reference number of a for loop that used this variab
 tempRow = This is temporary row created by using the colMeans function on each subset created with tempAct and tempSub. After each time the row is created, it is added to the sumData data table, which is nulled out at the begining of the process.
 
 
-Explanation of files enclosed in the zip folder 
+Files enclosed in the zip folder 
 =================
 activity_labels.txt
 features.txt
